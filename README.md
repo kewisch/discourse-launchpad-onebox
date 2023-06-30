@@ -14,3 +14,6 @@ rake posts:rebake # This will take a long time depending on how much content you
 
 If you need to uninstall, remove the `plugins/discourse-launchpad-onebox` directory and optionally
 rebake the posts again.
+<p align="center">
+<img width="700" alt="image" src="https://github.com/kewisch/discourse-launchpad-onebox/assets/607198/7f51b9fd-5ea3-45bf-820d-dd9e22f1e334">
+</p>
